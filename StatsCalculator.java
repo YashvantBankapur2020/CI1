@@ -1,5 +1,3 @@
-package CI1;
-
 import java.util.Arrays;
 public class StatsCalculator {
 
